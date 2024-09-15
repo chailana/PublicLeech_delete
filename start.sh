@@ -1,3 +1,3 @@
 python3 app.py &
-publicleechgroup
+python3 -m publicleechgroup
 wait
